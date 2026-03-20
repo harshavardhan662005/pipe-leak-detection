@@ -39,4 +39,4 @@ else:
     st.success("✅ System stable. No leaks detected.")
 
 # 7. Data Table
-with st.expander("See Raw Sensor Logs")
+with st.expander("See Raw Sensor Logs"):
