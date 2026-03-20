@@ -40,3 +40,4 @@ else:
 
 # 7. Data Table
 with st.expander("See Raw Sensor Logs"):
+    st.dataframe(df)
